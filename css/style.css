@@ -1,0 +1,68 @@
+h1 {
+  padding-top: 20px;
+  font-size: 2rem;
+  color: #fff;
+}
+
+h2 {
+  font-size: 1.75rem;
+}
+
+h3 {
+  font-size: 1.5rem;
+}
+
+nav {
+  background-color: #563d7c;
+  height: 100vh;
+  position: fixed;
+}
+
+main {
+  padding: 23px 8% 20px 50px;
+}
+
+section {
+  padding: 30px 0;
+}
+
+.nav-link {
+  color: #cbbde2;
+}
+
+.nav-link:hover {
+  color: #fff;
+}
+
+.highlight {
+  background-color: #f7f7f9;
+}
+
+.c {
+  color: #999;
+}
+
+.cp {
+  color: #099;
+}
+
+.nt {
+  color: #2f6f9f;
+}
+
+.na {
+  color: #4f9fcf;
+}
+
+.s {
+  color: #d44950;
+}
+
+.nc {
+  color: #0a8;
+}
+
+.nl {
+  color: #99f;
+}
+
